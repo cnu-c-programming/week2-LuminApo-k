@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(int argc, char const *argv[])
+int main()
 {
     int var1 = 100;
     printf("int: %d\n", var1);
